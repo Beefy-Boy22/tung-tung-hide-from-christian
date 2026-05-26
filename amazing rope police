@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Game 1</title>
+</head>
 
+<body>
+
+  <h1>🎮 Game 1</h1>
+
+  <a href="index.html">⬅ Back</a>
+
+  <br><br>
+
+  <iframe 
+    src="https://scratch.mit.edu/projects/10992914/embed"
+    width="800"
+    height="500"
+    allowfullscreen>
+  </iframe>
+
+</body>
+</html>
